@@ -1,10 +1,15 @@
 header{
-  height: 70px;
+  height: 100px;
   background-color: rgb(52, 64, 81);
 }
 
+/* DEBUG */
 [class^="container"],
 [class^="row"],
 [class^="col"]{
   border: 1px solid black;
+}
+
+#jumbo{
+  background-color: rgb(92, 183, 154);
 }
