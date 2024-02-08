@@ -4,11 +4,11 @@ header{
 }
 
 /* DEBUG */
-[class^="container"],
+/* [class^="container"],
 [class^="row"],
 [class^="col"]{
   border: 1px solid black;
-}
+} */
 
 #green{
   background-color: rgb(92, 183, 154);
@@ -32,4 +32,8 @@ header{
 
 #f-2{
   background-color: rgb(52, 64, 81);
+}
+
+#f-2 span{
+  font-size: small;
 }
