@@ -14,8 +14,26 @@ header{
   border: 1px solid black;
 } */
 
-#green{
+.green{
   background-color: rgb(92, 183, 154);
+}
+
+.green.jumbo{
+  padding-top: 100px;
+}
+
+.line{
+  height: 3px;
+  background-color: white;
+  border-radius: 3px;
+}
+
+.line.dark{
+  background-color: black;
+}
+
+.fa-star{
+  line-height: 30px;
 }
 
 #f-1{
