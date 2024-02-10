@@ -39,8 +39,29 @@ header{
 
 #download{
   border: 1px solid white;
-  padding: 7px 10px;
+  padding: 7px;
   border-radius: 5px;
+}
+
+.form-container{
+  margin: 0 auto;
+  width: 60% !important;
+}
+
+form input,
+form textarea{
+  margin: 10px 0;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-color: lightgray;
+}
+
+button{
+  background-color: #1abc9c;
+  border-style: none;
+  color: white;
+  padding: 5px 9px;
 }
 
 #f-1{
