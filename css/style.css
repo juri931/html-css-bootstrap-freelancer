@@ -8,12 +8,12 @@ header{
   box-shadow:  2px 3px 7px rgba(0, 0, 0, .5);
 }
 
-/* DEBUG */
-/* [class^="container"],
-[class^="row"],
-[class^="col"]{
-  border: 1px solid black;
-} */
+#hamburger{
+  color: gray;
+  border: 2px solid gray;
+  padding: 0 9px;
+  border-radius: 5px;
+}
 
 .green{
   background-color: rgb(92, 183, 154);
