@@ -33,6 +33,16 @@ header{
   line-height: 30px;
 }
 
+.about-container{
+  width: 80% !important;
+}
+
+#download{
+  border: 1px solid white;
+  padding: 7px 10px;
+  border-radius: 5px;
+}
+
 #f-1{
   background-color: rgb(67, 84, 109);
 }
