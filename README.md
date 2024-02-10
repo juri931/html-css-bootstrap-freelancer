@@ -1,3 +1,3 @@
 html-css-bootstrap-freelancer
 ===
-Esercizio Bootstrap Freelancer (WIP)
+Esercizio Bootstrap Freelancer
